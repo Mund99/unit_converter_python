@@ -24,7 +24,7 @@ A command-line unit converter program that supports conversions between differen
 
 1. Clone the repository
    ```
-   git clone https://github.com/Mund99/unit_converter_python_cli
+   git clone https://github.com/Mund99/unit_converter_python
    ```
 2. Install the required packages:
    ```bash
