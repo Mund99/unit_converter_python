@@ -1,0 +1,4 @@
+conversion_history.txt
+venv/
+.vscode/
+__pycache__/
